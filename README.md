@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Bold And italic
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
