@@ -44,16 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David Costa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@davidcostacv](https://github.com/davidcostacv)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-costa-65516b248/)
 
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
